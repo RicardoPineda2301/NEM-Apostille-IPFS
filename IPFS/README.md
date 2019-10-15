@@ -29,3 +29,7 @@ Install the requires libraries:
 ```
 npm install ipfs-http-client ejs express express-fileupload body-parser
 ```
+
+## Guide
+
+A more in-depth guide can be found [here](https://github.com/RicardoPineda2301/NEM-Apostille-IPFS/edit/master/IPFS/IPFS_Guide.md)
